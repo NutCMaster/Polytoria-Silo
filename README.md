@@ -8,7 +8,7 @@
 3) There arent many tutorials that teaches coding, and if you are looking for something, this is a great place to start!
 
 
-## How do I upload?
+## How do I upload the resource to polytoria?
 1) Open up the polytoria creator.
 2) Press file < open
 3) And look up your file in the box which says "Search"
